@@ -3,7 +3,7 @@
 <suite name="Suita testowa" verbose="1" >
     <test name="Add owners test" >
         <classes>
-            <class name="HomePageTests"></class>
+            <class name="DynamicLoadingPageTests"></class>
         </classes>
     </test>
 </suite>
